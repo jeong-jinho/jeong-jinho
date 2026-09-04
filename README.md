@@ -37,7 +37,7 @@
 
 24개 위상학적 피처 중 3개로 pIC50 예측, 1000회 순열검정으로 통계적 유의성(p<0.001) 확정 · *진행 중*
 
-### 5. [AnythingNote — 음성·화면을 함께 기억하는 멀티모달 AI 노트](https://github.com/팀대표계정/anything-note)
+### 5. [AnythingNote — 음성·화면을 함께 기억하는 멀티모달 AI 노트](https://github.com/nxtcloud-edu/2026-khuniv-NIC-team08)
 `React` `TypeScript` `비전 처리` `AWS 연계`
 
 강의 음성과 화면을 자동 매칭하는 비전 모듈 공동 설계 — 2026 경희대 Nexus Innovation Challenge **대상 수상** (팀 프로젝트)
