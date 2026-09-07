@@ -13,6 +13,7 @@
 -  큰 문제를 작고 검증 가능한 하위 문제로 쪼개는 걸 중요하게 생각합니다
 -  결과뿐 아니라 한계와 실패한 시도까지 기록으로 남깁니다
 
+[전체 포트폴리오 보기 (Notion)]: https://app.notion.com/p/Portfolio-2fb8c494b1d3803483e2d647e44ee68b?source=copy_link
 ---
 
 ##  Projects
