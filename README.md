@@ -1,4 +1,4 @@
-# 안녕하세요, 정진호입니다 
+# 안녕하세요, 정진호입니다 👋
 
 **Data Analyst / AI Solution Developer**
 문제 정의부터 파고드는 응용수학 전공생
@@ -15,7 +15,7 @@
 
 ---
 
-##  Projects
+## 🚀 Projects
 
 ### 1. [나스닥 주가 방향성 예측 — SDE, GRU 두 가지 방식으로](https://github.com/jeong-jinho/nasdaq-direction-prediction-sde-gru)
 `시계열` `금융데이터` `SDE` `GRU`
@@ -30,7 +30,7 @@
 ### 3. [환경 요인 기반 아토피 발현 예측 — 개인별 민감도 클러스터링](https://github.com/jeong-jinho/atopy-prediction-environmental-clustering)
 `시계열` `환경데이터` `조합 클러스터링` `XGBoost`
 
-환자별 환경 민감도로 개인화 클러스터링, 3요인 조합 탐색으로 정확도 0.71 → 0.83 개선
+환자별 환경 민감도로 개인화 클러스터링, 3요인 조합 탐색으로 예측 성능 상대적으로 약 15~20% 개선 (비공개 임상 데이터 사용)
 
 ### 4. [4D TDA 기반 EGFR 억제제 결합력(pIC50) 예측](https://github.com/jeong-jinho/tda-egfr-pic50-prediction)
 `TDA` `Cubical Complex` `통계적 검증` `산학과제`
@@ -44,7 +44,7 @@
 
 ---
 
-##  Skills
+## 🛠 Skills
 
 **Data Analysis** `Python` `Pandas` `NumPy` `SQL`
 
@@ -60,7 +60,7 @@
 
 ---
 
-##  Contact
+## 📫 Contact
 
 - Email: wjdwlsgh0201@naver.com
 - Notion Portfolio: (링크 추가)
